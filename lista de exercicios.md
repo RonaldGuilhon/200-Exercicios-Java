@@ -9,3 +9,6 @@
 
 ## Exercício 04: Conversão de Tipos
 > Escreva um programa que converta um valor double em int e outro valor int em double. Exiba os resultados das `conversões` e explique a diferença entre conversão explícita e implícita. Dica: procure por type casting em Java.
+
+## Exercício 05: Operadores Aritiméticos
+> Desenvolva um programa que declare duas variáveis int e realize as operações de soma, subtração, multiplicação, divisão e módulo entre elas.exiba os resultados de cada operação.
