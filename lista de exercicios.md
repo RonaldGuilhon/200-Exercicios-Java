@@ -4,7 +4,7 @@
 ## Exercício 02: Comentários no código
 > Escreva um programa Java que contenha três tipos de `comentários`: comentário de linha, comentário de bloco e comentário de documentação. Explique brevemente o uso de cada um desses comentários dentro do código. 
 
-## Exercício 03: Vriáveis e Tipos de Dados
+## Exercício 03: Variáveis e Tipos de Dados
 > Crie um programa que declare e inicialize variáveis de todos os `tipos primitivos` em Java (int, double, char, boolean, etc.). Exiba o valor de cada variável no console.
 
 ## Exercício 04: Conversão de Tipos
