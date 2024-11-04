@@ -1,4 +1,4 @@
-# 200 Exercícios de Java
+# 200 Exercícios Java
 
 Domine Java através de exercícios e se prepare para o mercado de trabalho!
 
