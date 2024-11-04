@@ -12,3 +12,12 @@
 
 ## Exercício 05: Operadores Aritiméticos
 > Desenvolva um programa que declare duas variáveis int e realize as `operações` de soma, subtração, multiplicação, divisão e módulo entre elas.   Exiba os resultados de cada operação.
+
+## Exercício 06: Constantes
+> Crie um programa que utilize a palavra-chave final para declarar uma `constante` que representa a velocidade da luz no vácuo. Tente alterar o valor da constante e observe o comportamento do compilador.
+
+## Exercício 07: Entrada de dados
+> Escreva um programa que leia um número inteiro e um número decimal do teclado e, em seguida, exiba a soma desses números no console. Dica: utilize o pacote/classe `Scanner`.
+
+ 
+
