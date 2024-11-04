@@ -1,4 +1,4 @@
-public class Exercicio05_OeracoesAritimeticas {
+public class Exercicio05_OperacoesAritimeticas {
     public static void main(String[] args) {
         int num1 = 10;
         int num2 = 5;
