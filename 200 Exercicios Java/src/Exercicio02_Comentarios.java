@@ -1,4 +1,4 @@
-public class Exercicio02Comentarios {
+public class Exercicio02_Comentarios {
     public static void main(String[] args) {
         // Comentarios
 

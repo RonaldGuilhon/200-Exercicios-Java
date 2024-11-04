@@ -1,7 +1,7 @@
-public class Exercicio03TiposDeDados {
+public class Exercicio03_TiposDeDados {
     public static void main(String[] args) {
 
-        // declarçãoi das variaveis (Tipos primitivos)
+        // declarção das variaveis (Tipos primitivos)
         int idade = 30;
         double altura = 1.75;
         float salario = 2500.50f;
