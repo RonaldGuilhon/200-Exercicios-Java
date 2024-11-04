@@ -19,5 +19,8 @@
 ## Exercício 07: Entrada de dados
 > Escreva um programa que leia um número inteiro e um número decimal do teclado e, em seguida, exiba a soma desses números no console. Dica: utilize o pacote/classe `Scanner`.
 
- 
+
+## Exercício 08: Strings e Concatenação
+> Crie um programa que peça ao usuário para digitar seu nome e sobrenome. O programa deve exibir uma mensagem de boas-vindas `concatenando` o nome e o sobrenome do usuário.
+
 
