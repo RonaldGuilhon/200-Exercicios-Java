@@ -26,4 +26,7 @@
 ## Exercício 09: Tipos de Variáveis
 > Escreva um programa que declare `variáveis locais e globais` (dentro de uma classe). Inicialize e exiba o valor de ambas variáveis no console.
 
+## Exercício 10: Formatação de saída
+> Desenvolva um programaque exibao valor de uma variável double com duas casas decimais. Utilize `formatação` para garantirque o valor seja exibido corretamente.
+
 
