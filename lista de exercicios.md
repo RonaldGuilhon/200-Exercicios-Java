@@ -23,4 +23,7 @@
 ## Exercício 08: Strings e Concatenação
 > Crie um programa que peça ao usuário para digitar seu nome e sobrenome. O programa deve exibir uma mensagem de boas-vindas `concatenando` o nome e o sobrenome do usuário.
 
+## Exercício 09: Tipos de Variáveis
+> Escreva um programa que declare variáveis locais e globais (dentro de uma classe). Inicialize e exiba o valor de ambas variáveis no console.
+
 
