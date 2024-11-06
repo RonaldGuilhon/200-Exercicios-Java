@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio13_AreDeUmRetangulo {
+public class Exercicio13_AreaDeUmRetangulo {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
