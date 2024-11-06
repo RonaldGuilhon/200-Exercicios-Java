@@ -22,5 +22,7 @@ public class Exercicio11_CalculadoraSimples {
         System.out.println("A divisão dos valores é: " + divisao);
         System.out.println("O modulo dos valores é: " + modulo);
 
+        scanner.close();
+
     }
 }

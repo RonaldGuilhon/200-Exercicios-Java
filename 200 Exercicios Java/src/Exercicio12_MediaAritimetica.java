@@ -17,5 +17,6 @@ public class Exercicio12_MediaAritimetica {
 
         System.out.println("A média aritimetica é: " + media);
 
+        scanner.close();
     }
 }
