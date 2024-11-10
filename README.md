@@ -9,14 +9,14 @@ Domine Java através de exercícios e se prepare para o mercado de trabalho!
 
 ## 📚 Contetudo
 
-### 1. Configuração do Ambiente de Desenvolvimento
-### 2. Introdução ao Java 1-10 
-### 3. Operadores 11-30
-### 4. Controle de Fluxo
-### 5. Arrays e Coleções
-### 6. Métodos e Funções
-### 7. Classes e Objetos
-### 8. Herança e Polimorfismo
-### 9. Manipulação de Strings
-### 10. Desafios
+### Capitulo 1: Configuração do Ambiente de Desenvolvimento
+### Capitulo 2: Introdução ao Java 1-10 
+### Capitulo 3: Operadores 11-30
+### Capitulo 4: Controle de Fluxo
+### Capitulo 5: Arrays e Coleções
+### Capitulo 6: Métodos e Funções
+### Capitulo 7: Classes e Objetos
+### Capitulo 8: Herança e Polimorfismo
+### Capitulo 9: Manipulação de Strings
+### Capitulo 10: Desafios
 
