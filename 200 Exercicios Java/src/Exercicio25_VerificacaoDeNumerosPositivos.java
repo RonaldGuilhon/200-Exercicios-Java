@@ -24,13 +24,13 @@ public class Exercicio25_VerificacaoDeNumerosPositivos {
 
         if (positivos == 1) {
             System.out.println("Um número é positivo!");
-        } else if (positivos == 2){
+        } else if (positivos == 2) {
             System.out.println("Dois números são positivos!");
-        }else if (positivos == 3){
+        } else if (positivos == 3) {
             System.out.println("Três números são positivos");
-         }else{
+        } else {
             System.out.println("Nenhum número é positivo");
-         }
+        }
         scanner.close();
     }
 }
