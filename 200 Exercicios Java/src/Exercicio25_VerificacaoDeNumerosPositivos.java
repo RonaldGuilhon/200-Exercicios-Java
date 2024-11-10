@@ -32,6 +32,5 @@ public class Exercicio25_VerificacaoDeNumerosPositivos {
             System.out.println("Nenhum número é positivo");
          }
         scanner.close();
-
     }
 }
