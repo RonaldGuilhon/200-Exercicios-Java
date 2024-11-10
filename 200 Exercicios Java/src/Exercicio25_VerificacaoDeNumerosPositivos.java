@@ -22,11 +22,15 @@ public class Exercicio25_VerificacaoDeNumerosPositivos {
         if (numero3 > 0)
             positivos++;
 
-        if (positivos >= 2) {
-            System.out.println("Pelo menos dois números são positivos!");
-        } else {
-            System.out.println("Menos de dois números posistivos!");
-        }
+        if (positivos == 1) {
+            System.out.println("Um número é positivo!");
+        } else if (positivos == 2){
+            System.out.println("Dois números são positivos!");
+        }else if (positivos == 3){
+            System.out.println("Três números são positivos");
+         }else{
+            System.out.println("Nenhum número é positivo");
+         }
         scanner.close();
 
     }
