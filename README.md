@@ -1,39 +1,16 @@
-# 200 Exercícios Java
 
-Domine Java através de exercícios e se prepare para o mercado de trabalho!
+# 🌟 200 Exercícios Java 🌟
 
-<img src="https://github.com/user-attachments/assets/084ccc15-4c5a-443e-aadc-d1920b00883e" alt="200 Exercícios de Java" width="200" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+## 📚 Introdução
 
-[Compre na Amazon](https://www.amazon.com.br/gp/product/B0DK3B1FQM/ref=ppx_yo_dt_b_d_asin_title_351_o00?ie=UTF8&psc=1)
-
-### Exercício 01: Primeiros Passos
-> Crie um programa Java que exiba a mensagem `"Olá, Mundo!"` no console. Em seguida, modifique o programa para exibir o seu nome. 
-
-### Exercício 02: Comentários no código
-> Escreva um programa Java que contenha três tipos de `comentários`: comentário de linha, comentário de bloco e comentário de documentação. Explique brevemente o uso de cada um desses comentários dentro do código. 
-
-### Exercício 03: Variáveis e Tipos de Dados
-> Crie um programa que declare e inicialize variáveis de todos os `tipos primitivos` em Java (int, double, char, boolean, etc.). Exiba o valor de cada variável no console.
-
-### Exercício 04: Conversão de Tipos
-> Escreva um programa que converta um valor double em int e outro valor int em double. Exiba os resultados das `conversões` e explique a diferença entre conversão explícita e implícita. Dica: procure por type casting em Java.
-
-### Exercício 05: Operadores Aritiméticos
-> Desenvolva um programa que declare duas variáveis int e realize as `operações` de soma, subtração, multiplicação, divisão e módulo entre elas.   Exiba os resultados de cada operação.
-
-### Exercício 06: Constantes
-> Crie um programa que utilize a palavra-chave final para declarar uma `constante` que representa a velocidade da luz no vácuo. Tente alterar o valor da constante e observe o comportamento do compilador.
-
-### Exercício 07: Entrada de dados
-> Escreva um programa que leia um número inteiro e um número decimal do teclado e, em seguida, exiba a soma desses números no console. Dica: utilize o pacote/classe `Scanner`.
-
-### Exercício 08: Strings e Concatenação
-> Crie um programa que peça ao usuário para digitar seu nome e sobrenome. O programa deve exibir uma mensagem de boas-vindas `concatenando` o nome e o sobrenome do usuário.
-
-### Exercício 09: Tipos de Variáveis
-> Escreva um programa que declare `variáveis locais e globais` (dentro de uma classe). Inicialize e exiba o valor de ambas variáveis no console.
-
-### Exercício 10: Formatação de saída
-> Desenvolva um programaque exibao valor de uma variável double com duas casas decimais. Utilize `formatação` para garantir que o valor seja exibido corretamente.
-
+### 1. Configuração do Ambiente de Desenvolvimento
+### 2. Introdução ao Java  
+### 3. Operadores
+### 4. Controle de Fluxo
+### 5. Arrays e Coleções
+### 6. Métodos e Funções
+### 7. Classes e Objetos
+### 8. Herança e Polimorfismo
+### 9. Manipulação de Strings
+### 10. Desafios
 
