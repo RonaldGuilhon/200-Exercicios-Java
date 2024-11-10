@@ -7,13 +7,11 @@ Domine Java através de exercícios e se prepare para o mercado de trabalho!
 [Compre na Amazon](https://www.amazon.com.br/gp/product/B0DK3B1FQM/ref=ppx_yo_dt_b_d_asin_title_351_o00?ie=UTF8&psc=1)
 
 
-# 🌟 200 Exercícios Java 🌟
-
-## 📚 Introdução
+## 📚 Contetudo
 
 ### 1. Configuração do Ambiente de Desenvolvimento
-### 2. Introdução ao Java  
-### 3. Operadores
+### 2. Introdução ao Java 1-10 
+### 3. Operadores 11-30
 ### 4. Controle de Fluxo
 ### 5. Arrays e Coleções
 ### 6. Métodos e Funções
