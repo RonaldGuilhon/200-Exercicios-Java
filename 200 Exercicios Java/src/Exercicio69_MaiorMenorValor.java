@@ -9,17 +9,19 @@ public class Exercicio69_MaiorMenorValor {
         for (int i = 0; i < numeros.length; i++) {
             System.out.println("Entre com o " + (i + 1) + "º valor");
             numeros[i] = scanner.nextInt();
-            if (i == 0) {
-                maior = numeros[i];
-                menor = numeros[i];
-            } else if (numeros[i] > maior) {
-                maior = numeros[i];
-            } else if (numeros[i] < menor) {
-                menor = numeros[i];
+        }
+        maior = menor = numeros[0];
+        for (int numero : numeros) {
+            if (numero > maior) {
+                maior = numero;
+            }
+            if (numero < menor) {
+                menor = numero;
             }
         }
-        System.out.println("O maior valor digitado foi: " + maior);
-        System.out.println("O menor valor digitado foi: " + menor);
+        System.out.println("Maior valor: " + maior);
+        System.out.println("Menor valor: " + menor);
         scanner.close();
+
     }
 }
