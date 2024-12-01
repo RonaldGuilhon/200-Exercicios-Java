@@ -6,17 +6,17 @@ public class Exercicio72_ContagemOcorrenciaDeUmNumero {
         int[] numeros = new int[10];
         int ocorrencias = 0;
         for (int i = 0; i < numeros.length; i++) {
-            System.out.println("Digite o " + (i + 1) + "º número: ");
+            System.out.printf("Digite o " + (i + 1) + "º número: ");
             numeros[i] = scanner.nextInt();
         }
-        System.out.println("Digite um numero para contar as ocorrências: ");
+        System.out.printf("Digite um numero para contar as ocorrências: ");
         int numeroProcurado = scanner.nextInt();
         for (int numero : numeros) {
             if (numero == numeroProcurado) {
                 ocorrencias++;
             }
         }
-        System.out.println("O número " + numeroProcurado + " apareceu " + ocorrencias + " vezes.");
+        System.out.printf("O número " + numeroProcurado + " apareceu " + ocorrencias + " vezes.");
         scanner.close();
     }
 }
