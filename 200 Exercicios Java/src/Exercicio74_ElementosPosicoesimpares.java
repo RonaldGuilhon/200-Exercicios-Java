@@ -8,7 +8,7 @@ public class Exercicio74_ElementosPosicoesimpares {
             System.out.printf("Digite o " + (i + 1) + "º número: ");
             numeros[i] = scanner.nextInt();
         }
-        System.out.println("Os números digitados foram: ");
+        System.out.println("Os números digitados em posições impares do array foram: ");
         for (int i = 1; i < numeros.length; i += 2) {
             System.out.println(numeros[i]);
         }
