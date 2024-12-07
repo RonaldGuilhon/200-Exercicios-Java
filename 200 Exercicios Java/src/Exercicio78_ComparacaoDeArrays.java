@@ -11,6 +11,13 @@ public class Exercicio78_ComparacaoDeArrays {
             array1[i] = scanner.nextInt();
 
         }
+        System.out.println("Preencha o segundo array: ");
+        for (int i = 0; i < array2.length; i++) {
+            System.out.println("Elemento [" + i + "] = " + array2[i]);
+            array2[i] = scanner.nextInt();
+
+        }
+        scanner.close();
     }
 
 }
