@@ -1,20 +1,16 @@
+import java.util.Scanner;
+
 public class Exercicio78_ComparacaoDeArrays {
     public static void main(String[] args) {
-        int[] array1 = {1, 2, 3, 4, 5
-            };
-            int[] array2 = {1, 2, 3, 4, 5
-                };
-                System.out.println("Array 1: " + Arrays.toString(array1));
-                System.out.println("Array 2: " + Arrays.toString(array2));
-                \
-                if (Arrays.equals(array1, array2)) {
-                    System.out.println("Os arrays são iguais");
-                    } else
-                    System.out.println("Os arrays são diferentes");
-                    \
-                    }\
-}\}
+        Scanner scanner = new Scanner(System.in);
+        int[] array1 = new int[5];
+        int[] array2 = new int[5];
+        System.out.println("Preencha o primeiro array: ");
+        for (int i = 0; i < array1.length; i++) {
+            System.out.println("Elemento [" + i + "] = " + array1[i]);
+            array1[i] = scanner.nextInt();
 
-}
+        }
+    }
 
 }
