@@ -17,6 +17,12 @@ public class Exercicio78_ComparacaoDeArrays {
             array2[i] = scanner.nextInt();
 
         }
+        System.out.println("Comparação dos valores dos arrays na mesma posição:");
+        for (int i = 0; i < array1.length; i++) {
+            if (array1[i] == array2[i]) {
+                System.out.println("Elemento [" + i + "] = " + array1[i] + " é igual a " + array2[i]);
+            }
+        }
         scanner.close();
     }
 
