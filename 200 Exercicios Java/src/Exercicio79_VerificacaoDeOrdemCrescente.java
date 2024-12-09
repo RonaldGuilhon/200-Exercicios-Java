@@ -10,10 +10,16 @@ public class Exercicio79_VerificacaoDeOrdemCrescente {
             numeros[i] = scanner.nextInt();
         }
         for (int i = 0; i < numeros.length - 1; i++) {
-            if (condition) {
-
+            if (numeros[i] > numeros[i + 1]) {
+                emOrdem = true;
+                break;
             }
         }
-
+        if (emOrdem) {
+            System.out.println("Os números não estão em ordem crescente.");
+        } else {
+            System.out.println("Os números estão em ordem crescente.");
+        }
+        scanner.close();
     }
 }
