@@ -21,6 +21,7 @@ public class Exercicio78_ComparacaoDeArrays {
                 System.out.println("Elemento [" + i + "] = " + array1[i] + " é igual a " + array2[i]);
             }
         }
+
         scanner.close();
     }
 }
