@@ -13,6 +13,7 @@ public class Exercicio79_VerificacaoDeOrdemCrescente {
             if (numeros[i] > numeros[i + 1]) {
                 emOrdem = true;
                 break;
+                
             }
         }
         if (emOrdem) {
