@@ -22,5 +22,6 @@ public class Exercicio78_ComparacaoDeArrays {
             }
         }
         scanner.close();
+
     }
 }
